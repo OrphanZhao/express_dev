@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:OrphanZhao/express_dev.git",
   "author": "class_moon <zhaoxin@deallinker.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
