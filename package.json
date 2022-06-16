@@ -9,9 +9,12 @@
     "start": "npx nodemon app.js"
   },
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "global": "^4.4.0",
+    "typings": "^2.1.1"
   },
   "devDependencies": {
+    "@types/node": "^18.0.0",
     "nodemon": "^2.0.16"
   }
 }
